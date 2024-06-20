@@ -1,7 +1,3 @@
-# W8ty
+# W8ty (GH-Pages)
 
-A W.I.P simple retro styled font. Inspired by Minecraft Dungeons and retro games.
-
-Check out **some** characters:
-
-![A display of some characters included.](someCharacters.png)
+The pages src.
