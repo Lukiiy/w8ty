@@ -1,0 +1,49 @@
+{
+	"$baseURI": "https://yal.cc/r/20/pixelfont/",
+	"$version": "1.0",
+	"in-glyphs": [
+		"ABCDEFGHIJKLMNO",
+		"PQRSTUVWXYZabcd",
+		"efghijklmnopqrs",
+		"tuvwxyz01234567",
+		"89.,:;()[]{}!?\"",
+		"'#@+-/\\|~^$<>=%",
+		"` &÷¦äöüßàāáèēé",
+		"ìīíòōóùūúőűçčćš",
+		"đžñÑëã∎↑↓←→«»≈⁰",
+		"¹²³⁴⁵⁶⁷⁸⁹¨*—´¡¿",
+		"■□•_"
+	],
+	"glyph-color": "black",
+	"in-kerning": [
+		""
+	],
+	"glyph-width": 5,
+	"glyph-height": 7,
+	"glyph-ofs-x": 1,
+	"glyph-ofs-y": 1,
+	"glyph-sep-x": 1,
+	"glyph-sep-y": 1,
+	"glyph-base-x": 0,
+	"glyph-baseline": 4,
+	"glyph-spacing": 1,
+	"font-is-mono": false,
+	"font-em-square": 960,
+	"font-line-gap": 0,
+	"font-ascend": 608,
+	"font-descend": -416,
+	"font-px-size": 160,
+	"contour-type": "pixel",
+	"font-type": "otf",
+	"font-name": "W8ty",
+	"font-author": "Lukiiy",
+	"font-copy": "(c) Lukiiy 2024",
+	"font-version": "Version 2",
+	"font-desc": "Very cool pixelated font.",
+	"font-license": "SIL Open Font License",
+	"font-license-url": "https://openfontlicense.org/open-font-license-official-text/",
+	"font-sample-text": "Hello, world!",
+	"font-preview-text": [
+		"Lorem ipsum"
+	]
+}

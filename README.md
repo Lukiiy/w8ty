@@ -1,6 +1,9 @@
-# W8ty
+# w8ty
 
-A W.I.P simple retro styled font. Inspired by Minecraft Dungeons and retro games.
+---
+
+A simple pixel font. Inspired by Minecraft Dungeons and retro games.  
+Made using [PixelFont](https://yal.cc/r/20/pixelfont/).
 
 Check out **some** characters:
 
